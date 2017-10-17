@@ -7,3 +7,16 @@
 
 1. Test file 1
 2. Test file 2
+
+Lorem ipsum `this is code`.
+
+```
+code block
+
+```
+
+
+```
+code2
+
+```
