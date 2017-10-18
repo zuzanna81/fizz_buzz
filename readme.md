@@ -1,22 +1,11 @@
-# Fizz_Buzz
+# My fizz_buzz project at Craft Academy prep-course
 
-## It's all about the test :-)
+* To run this program you need rspec installed on your computer
 
-* Test 1
-* Test 2
+* To run this program put in:
+1. fizz_buzz(here - number divisible by 3) to get "fizz" back
+2. fizz_buzz(here - number divisible by 5) to get "buzz" back
+3. fizz_buzz(here - number divisible by 15) to get "fizz_buzz" back
+4. negative number to get... check the message yourself!
 
-1. Test file 1
-2. Test file 2
-
-Lorem ipsum `this is code`.
-
-```
-code block
-
-```
-
-
-```
-code2
-
-```
+* Source Craft Academy course material
